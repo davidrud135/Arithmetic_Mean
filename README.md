@@ -17,6 +17,6 @@ Then go to cloned repository and open index.html file.
  ### 2. Download ZIP archive
 Do as below:
 
-![Image alt](https://github.com/davidrud135/Arithmetic-Mean_HTML-version/blob/develop/zip.png)
+![Image alt](https://github.com/davidrud135/Arithmetic-Mean_HTML-version/blob/master/zip.png)
 
 Later unpack archive and open index.html file.
