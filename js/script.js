@@ -48,7 +48,7 @@ $(document).ready(function() {
 	function sumNums(array, end) {
 		var sum = 0;
 		for(var i = 0; i < end; i++) {
-			if( isNaN(array[i]) ) { alert('Please, write only numbers!') };
+			if( isNaN(array[i]) ) { return alert('Please, write only numbers!') };
 			sum = sum + array[i];
 		}
 
