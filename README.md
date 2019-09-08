@@ -1,8 +1,8 @@
-# Arithmetic Mean (HTML Version)
+# Arithmetic Mean
 
-My program calculate arithmetic mean of given numbers.
+My program can calculate the arithmetic mean of the given numbers.
 
-Write numbers you need separating them by "space" and click Calculate or hit Enter.
+Write numbers you need separating them by "space" and click Calculate button or hit Enter.
 
 ## How to start
 There are 2 ways:
